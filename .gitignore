@@ -1,0 +1,5 @@
+.venv/
+*.db
+*.xlsx
+__pycache__/
+.pytest_cache/
